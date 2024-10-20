@@ -1,6 +1,6 @@
 This theme should be used only as a text menu.
 
-The clock is meant to be disabled, as well as all indicators, other than the battery meter (and the game and watch directory name will probably cover that, if friendly folder names are enabled).
+The clock is meant to be disabled, as well as all indicators, other than the battery meter (and the game and watch directory name will probably cover that, if friendly folder names are enabled, but, meh).
 
 Also, region and other rom details are probably best left hidden, as well as any pop ups mentioning things like the amount of files in a directory.
 
