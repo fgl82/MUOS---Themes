@@ -8,4 +8,6 @@ Previews/boxart are disabled (alpha = 0) and the help/info panel doesn't display
 
 I don't want to worry about previews or games information, I just want to select something and run it, while matching the color scheme of my handheld.
 
+Thanks to hmcneill46 (https://github.com/hmcneill46) for creating the MinUIfied Theme Generator gui, which let me jumpstart this theme, as well as for his assistance with fine tuning.
+
 Enjoy!
